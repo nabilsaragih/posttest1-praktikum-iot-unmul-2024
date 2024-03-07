@@ -21,4 +21,4 @@ Sistem ini memungkinkan pengguna untuk mengontrol LED dari jarak jauh melalui an
 4. Kabel Jumper x4
 
 ## Board Schematic
-![]()
+![Board Schematic](https://github.com/nabilsaragih/posttest1-praktikum-iot-unmul-2024/blob/main/Schematic.png)
