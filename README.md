@@ -24,4 +24,4 @@ Sistem ini memungkinkan pengguna untuk mengontrol LED dari jarak jauh melalui an
 ![Board Schematic](https://github.com/nabilsaragih/posttest1-praktikum-iot-unmul-2024/blob/main/Schematic.png)
 
 ## Lampiran
-![LINK YOUTUBE](https://youtu.be/ct0IOIZEeCM)
+[LINK YOUTUBE](https://youtu.be/ct0IOIZEeCM)
